@@ -1,0 +1,5 @@
+##grflangid 0x01
+
+#Main grf title and description
+STR_GRF_NAME        :Lalolalo9 Steam Train Only GRF
+STR_GRF_DESCRIPTION :Description: This is a GRF to Disable all non-steam trains from base set.

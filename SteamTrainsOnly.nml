@@ -1,0 +1,14 @@
+//define the newgrf
+grf {
+    grfid:                  "LA\09\09";
+    name:                   string(STR_GRF_NAME);
+    desc:                   string(STR_GRF_DESCRIPTION);
+    version:                0;
+    min_compatible_version: 0;
+}
+
+
+disable_item(FEAT_TRAINS, 54, 115);
+disable_item(FEAT_TRAINS,1);
+disable_item(FEAT_TRAINS,5,6);
+disable_item(FEAT_TRAINS,11,26);
